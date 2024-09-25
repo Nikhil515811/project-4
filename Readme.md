@@ -1,4 +1,5 @@
 # TipJar Smart Contract
+![WhatsApp Image 2024-09-25 at 14 06 12_a1e00f22](https://github.com/user-attachments/assets/132fbd74-1191-43f6-8f6e-014cd5d047e9)
 
 ## Vision
 
